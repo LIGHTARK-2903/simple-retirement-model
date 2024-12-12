@@ -2,8 +2,7 @@
 
 ## Introduction
 
-Hi, I'm Naman Choudhary, and this project is a simple retirement model built using Python.
-<br> The goal of this model is to help you estimate how many years you have left until retirement based on your current savings, expected annual return, and retirement goals.
+Hi, I'm Naman Choudhary, and this project is a simple retirement model built using Python. The goal of this model is to help you estimate how many years you have left until retirement based on your current savings, expected annual return, and retirement goals.
 
 ## What the Code Does
 
